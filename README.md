@@ -15,23 +15,24 @@ The S&P 500, or Standard & Poor's 500, is a stock market index that measures the
 - **Definition and significance**
 GDP is a measure of a country's economic activity, which is the total value of goods and services produced within a country minus the value of the goods and services used to produce them.
 - Historical correlation with stock market performance
-<insert visual here and analysis describing correlation>
+(insert visual here and analysis describing correlation)
 
 ### Inflation
 - **Definition and impact on purchasing power**
 Inflation is the rate of increase in prices over a given period of time. Inflation is typically a broad measure, such as the overall increase in prices or the increase in the cost of living in a country.
 - Relationship between inflation rates and stock market trends
-<insert visual here and analysis describing relationship>
+(insert visual here and analysis describing relationship)
 
 ### Interest Rates
 - **Explanation of interest rates and their role in the economy**
 the proportion of a loan that is charged as interest to the borrower, typically expressed as an annual percentage of the loan outstanding. The rates affect whether or not companies or consumers buy or sell product.
 - How changes in interest rates affect stock market investments
+(insert visual here and analysis describing changes affecting investments)
 
 ### Unemployment
 - **Definition and implications for economic health**
 - Connection between unemployment rates and market performance
-<insert visual here and analysis describing connection>
+(insert visual here and analysis describing connection)
 
 ## Methodology
 
