@@ -34,6 +34,7 @@ the proportion of a loan that is charged as interest to the borrower, typically 
 
 ### Unemployment
 - **Definition and implications for economic health**
+In economics, unemployment is when someone is able and willing to work but is not currently employed. It's a key indicator of a country's economic health.
 - Connection between unemployment rates and market performance
 (insert visual here and analysis describing connection)
 
