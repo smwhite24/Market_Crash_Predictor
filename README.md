@@ -3,7 +3,7 @@
 ## Introduction
 
 - Overview of stock market crashes:
-A stock market crash is a sudden and significant decline in the value of a stock market, typically characterized by a drop of 10% or more in a major index such as the S&P 500 over a short period. These events can be triggered by a variety of factors, including economic downturns, political instability, natural disasters, or sudden shifts in investor sentiment.
+--A stock market crash is a sudden and significant decline in the value of a stock market, typically characterized by a drop of 10% or more in a major index such as the S&P 500 over a short period. These events can be triggered by a variety of factors, including economic downturns, political instability, natural disasters, or sudden shifts in investor sentiment.
 - Importance of predicting crashes
 Predicting stock market crashes is of paramount importance for various stakeholders, including investors, financial institutions, policymakers, and the broader economy. Understanding the potential for market downturns can lead to more informed decision-making and proactive measures that can mitigate adverse effects.
 - Brief explanation of the S&P 500 index
