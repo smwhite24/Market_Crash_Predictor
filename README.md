@@ -67,10 +67,10 @@ We wanted to see if one model made more accurate predictions than another so we 
 ### Model Performance
 - Metrics for evaluating model accuracy
 
-Random Forest
-  -Weighted Precision: 0.985087091386304
-  -Weighted Recall: 0.9848484848484849
-  -F1 Score: 0.9836459836459837
+- Random Forest
+Weighted Precision: 0.985087091386304
+Weighted Recall: 0.9848484848484849
+F1 Score: 0.9836459836459837
 - Comparison of predicted vs. actual market movements
 
 ### Insights
