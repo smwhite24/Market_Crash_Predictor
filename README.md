@@ -41,8 +41,9 @@ In economics, unemployment is when someone is able and willing to work but is no
 ## Methodology
 
 ### Data Collection
-- Sources of economic data (e.g., government reports, financial databases)
-- Timeframe for data analysis
+- Sources of economic data
+S&P500 Historical data from Yahoo Finance https://finance.yahoo.com/
+Federal Reserve of St. Louis (FRED) https://fred.stlouisfed.org/
 
 ### Statistical Analysis
 - Techniques used (e.g., regression analysis, time series analysis)
@@ -51,8 +52,11 @@ In economics, unemployment is when someone is able and willing to work but is no
 ## Predictive Model Development
 
 ### Model Selection
-- Types of models (e.g., linear regression, machine learning algorithms)
+- Types of models
+Linear Regression Model
+Random Forest Model
 - Justification for chosen model(s)
+We wanted to see if one model made more accurate predictions than another so we chose to do both Linear Regression as Random Forest
 
 ### Feature Engineering
 - Selection of relevant features from economic variables
@@ -61,7 +65,12 @@ In economics, unemployment is when someone is able and willing to work but is no
 ## Results and Discussion
 
 ### Model Performance
-- Metrics for evaluating model accuracy (e.g., RMSE, R-squared)
+- Metrics for evaluating model accuracy
+
+Random Forest
+  -Weighted Precision: 0.985087091386304
+  -Weighted Recall: 0.9848484848484849
+  -F1 Score: 0.9836459836459837
 - Comparison of predicted vs. actual market movements
 
 ### Insights
