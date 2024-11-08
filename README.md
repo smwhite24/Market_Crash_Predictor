@@ -42,8 +42,8 @@ In economics, unemployment is when someone is able and willing to work but is no
 
 ### Data Collection
 - Sources of economic data
-S&P500 Historical data from Yahoo Finance https://finance.yahoo.com/
-Federal Reserve of St. Louis (FRED) https://fred.stlouisfed.org/
+S&P500 Historical data from Yahoo Finance 
+Federal Reserve of St. Louis (FRED) 
 
 ### Statistical Analysis
 - Techniques used (e.g., regression analysis, time series analysis)
@@ -68,9 +68,9 @@ We wanted to see if one model made more accurate predictions than another so we 
 - Metrics for evaluating model accuracy
 
 - Random Forest
-Weighted Precision: 0.985087091386304
-Weighted Recall: 0.9848484848484849
-F1 Score: 0.9836459836459837
+Weighted Precision: 0.98
+Weighted Recall: 0.98
+F1 Score: 0.98
 - Comparison of predicted vs. actual market movements
 
 ### Insights
@@ -85,7 +85,10 @@ F1 Score: 0.9836459836459837
 
 ## References
 
-- List of academic papers, articles, and data sources used in the analysis
+- https://fred.stlouisfed.org/
+- https://finance.yahoo.com/
+- class resources
+- Xpert Learning Assistant
 
 ## Appendices
 
