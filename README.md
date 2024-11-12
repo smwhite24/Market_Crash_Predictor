@@ -50,26 +50,31 @@ S&P500 Historical data from Yahoo Finance
 Federal Reserve of St. Louis (FRED) 
 
 ### Statistical Analysis
-- Techniques used (e.g., regression analysis, time series analysis)
-- Tools and software for analysis (e.g., Python, R)
+- Techniques used- Rolling volatility and moving average within logistic regression and random forest models.
+- Tools and software- google colab, jupyter notebooks, python, pyspark
 
 ## Predictive Model Development
 
 ### Model Selection
 - Types of models
-Linear Regression Model
-Random Forest Model
+Linear Regression Model - Simple model initially used that showed just enough accuracy. 
+Random Forest Model-  More complex model that showed a stronger accuracy score. 
 - Justification for chosen model(s)
 We wanted to see if one model made more accurate predictions than another so we chose to do both Linear Regression as Random Forest
 
 ### Feature Engineering
-- Selection of relevant features from economic variables
-- Techniques for improving model accuracy
+- Selection of relevant features from economic variables- GDP, Inflation, Interest Rates, 
+- Techniques for improving model accuracy- A more accurate crash rating that fits all crashes and isnt subject to change.
 
 ## Results and Discussion
 
 ### Model Performance
 - Metrics for evaluating model accuracy
+
+- logistic regression
+Weighted Precision: 0.98
+Weighted Recall: 0.98
+F-1 Score: 0.98
 
 - Random Forest
 Weighted Precision: 0.98
@@ -78,14 +83,14 @@ F1 Score: 0.98
 - Comparison of predicted vs. actual market movements
 
 ### Insights
-- Key findings from the analysis
-- Implications for investors and policymakers
+- Key findings from the analysis- GDP is the strongest economic indicator used. Crashes defined by stock price drops are is a good predictor of the crashes themselves 
+- Implications for investors and policymakers- Structuring policy to maintain a steady GDP can affect market volatility.
 
 ## Conclusion
 
-- Summary of findings
-- Limitations of the study
-- Recommendations for future research
+- Summary of findings- Based on the models some economic indicators show major shifts after crashes while others lead to the crashes. Interest rates and inflation are directly impacted by crashes while GDP is a major indicator of the crash itself. 
+- Limitations of the study- It is clear the type of stocks used as a metric affect the results. A different index or sector may have yielded more accurate results. Also, the metric used to define a "crash" could be more fleshed out and improved to avoid overfitting. 
+- Recommendations for future research- Adding public sentiment could greatly improve the model. 
 
 ## References
 
@@ -99,7 +104,6 @@ F1 Score: 0.98
 Charts predicting probability based on logistic regression models (interactive charts can be utilized in script:
 ## 1987 Crash
 <img width="975" alt="Screenshot 2024-11-12 at 4 20 39 PM" src="https://github.com/user-attachments/assets/2554e373-b72e-4c54-aa45-3d9a7026b5c3">
-
 
 ## 2000-2002 Crash
 
