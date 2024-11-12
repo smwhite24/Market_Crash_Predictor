@@ -18,25 +18,29 @@ The S&P 500, or Standard & Poor's 500, is a stock market index that measures the
 - **Definition and significance**
 GDP is a measure of a country's economic activity, which is the total value of goods and services produced within a country minus the value of the goods and services used to produce them.
 - Historical correlation with stock market performance
-(insert visual here and analysis describing correlation)
+
+<img width="1160" alt="Screenshot 2024-11-12 at 8 56 06 AM" src="https://github.com/user-attachments/assets/ef57d245-708f-4598-a6b6-dfeb1295cb9b">
 
 ### Inflation
 - **Definition and impact on purchasing power**
 Inflation is the rate of increase in prices over a given period of time. Inflation is typically a broad measure, such as the overall increase in prices or the increase in the cost of living in a country.
 - Relationship between inflation rates and stock market trends
-(insert visual here and analysis describing relationship)
+<img width="1150" alt="Screenshot 2024-11-12 at 8 58 05 AM" src="https://github.com/user-attachments/assets/b25b76af-979e-413e-b6bd-1cb2f5abc1bc">
+
 
 ### Interest Rates
 - **Explanation of interest rates and their role in the economy**
 the proportion of a loan that is charged as interest to the borrower, typically expressed as an annual percentage of the loan outstanding. The rates affect whether or not companies or consumers buy or sell product.
 - How changes in interest rates affect stock market investments
-(insert visual here and analysis describing changes affecting investments)
+
+<img width="1153" alt="Screenshot 2024-11-12 at 8 51 19 AM" src="https://github.com/user-attachments/assets/334bfe3d-d1cb-424b-8f13-6bb7ff45ca6e">
 
 ### Unemployment
 - **Definition and implications for economic health**
 In economics, unemployment is when someone is able and willing to work but is not currently employed. It's a key indicator of a country's economic health.
 - Connection between unemployment rates and market performance
-(insert visual here and analysis describing connection)
+
+<img width="1153" alt="Screenshot 2024-11-12 at 9 14 43 AM" src="https://github.com/user-attachments/assets/c4d6bc18-ffd2-492f-8f9d-fdee60dcc01f">
 
 ## Methodology
 
