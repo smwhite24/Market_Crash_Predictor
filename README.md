@@ -96,7 +96,7 @@ F1 Score: 0.98
 
 ## Appendices
 
-Charts predicting probability based on logistic regression models:
+Charts predicting probability based on logistic regression models (interactive charts can be utilized in script:
 ## 1987 Crash
 <img width="975" alt="Screenshot 2024-11-12 at 4 20 39 PM" src="https://github.com/user-attachments/assets/2554e373-b72e-4c54-aa45-3d9a7026b5c3">
 
