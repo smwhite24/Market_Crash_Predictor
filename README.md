@@ -96,4 +96,22 @@ F1 Score: 0.98
 
 ## Appendices
 
-- Additional charts, graphs, and tables supporting the analysis
+Charts predicting probability based on logistic regression models:
+## 1987 Crash
+<img width="975" alt="Screenshot 2024-11-12 at 4 20 39 PM" src="https://github.com/user-attachments/assets/2554e373-b72e-4c54-aa45-3d9a7026b5c3">
+
+
+## 2000-2002 Crash
+
+<img width="979" alt="Screenshot 2024-11-12 at 4 21 39 PM" src="https://github.com/user-attachments/assets/2f0fc52e-46c6-4850-9cb1-34eb86e82106">
+
+## 2008 Crash
+<img width="988" alt="Screenshot 2024-11-12 at 4 22 24 PM" src="https://github.com/user-attachments/assets/ed832e6a-eb97-490e-93f7-594d91e91d88">
+
+## 2020- COVID
+
+<img width="976" alt="Screenshot 2024-11-12 at 4 23 09 PM" src="https://github.com/user-attachments/assets/2a7491f1-d97d-47e5-81c7-227868e759f4">
+
+
+
+
