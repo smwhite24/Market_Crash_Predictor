@@ -94,11 +94,10 @@ F1 Score: 0.98
 
 ## References
 
-- https://fred.stlouisfed.org/
-- https://finance.yahoo.com/
-- class resources
-- Xpert Learning Assistant
-
+- Federal Reserve Economic Data (FRED): [https://fred.stlouisfed.org/](https://fred.stlouisfed.org/)
+- Yahoo Finance: [https://finance.yahoo.com/](https://finance.yahoo.com/)
+- Class Resources
+- Xpert Learning Assistant: Supported troubleshooting and advanced plotting techniques for overlaying economic indicators with S&P 500 data.
 ## Appendices
 
 Charts predicting probability based on logistic regression models (interactive charts can be utilized in script:
